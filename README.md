@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atharvashirsh
 - 👀 I’m a Web Developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Websites
+- 🌱 I’m currently learning JavaScript and Flutter
+- 💞️ I’m looking to collaborate on Websites 
 - 📫 How to reach me 
       Email: astw21209@gmail.com
 
