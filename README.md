@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Atharvashirsh T</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1> 👾 Hello Visitor 👾  <br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
+<h3> A passionate full-stack developer from India</h3>
 
 <img src="consulting-consultant.gif" alt="gif" >
 
