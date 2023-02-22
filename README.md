@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1> 👾 Hello Visitor 👾  <br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
-<h3> A passionate full-stack developer from India</h3>
-
+<h1> 👾 Hello Visitor 👾  <br><br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
+<p> A curious full-stack developer from India</p>
+<br>
 <img src="consulting-consultant.gif" alt="gif" >
 
 <h3> 🌱 I’m currently learning JavaScript and Flutter 🌱 </h3>
