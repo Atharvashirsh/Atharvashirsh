@@ -54,7 +54,16 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" /> </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" /> </a>
         <br>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60" /> </a>
+        <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60" /> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+        <br>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+        <br>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     </p>
 </div>
 
@@ -67,11 +76,11 @@
 <br>
 <br>
 <h2 align="center">My Github Stats:</h2>
-<div align="center">
-
-<p> <img src="https://komarev.com/ghpvc/?username=atharvashirsh&label=Profile%20views&color=0e75b6&style=flat" alt="atharvashirsh" width="169.5" height="30" /> </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&locale=en" alt="atharvashirsh" width="400" height="164"/></p> 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvashirsh&" alt="atharvashirsh" /></p>
-
+<p> <img align="center" src="https://komarev.com/ghpvc/?username=atharvashirsh&label=Profile%20views&color=0e75b6&style=flat" alt="atharvashirsh" width="169.5" height="30" /> </p>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&locale=en" alt="atharvashirsh" width="400" height="164"/></p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvashirsh&show_icons=true&locale=en&layout=compact" alt="atharvashirsh" /></p>
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvashirsh&" alt="atharvashirsh" /></p>
+
 
