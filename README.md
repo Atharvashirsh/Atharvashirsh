@@ -16,9 +16,15 @@
 <br>
 
 <h2 align="center">Connect with me:</h2>
-<p align="center">
+
+<div align="center">
 <a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvashirsh t" height="50" width="50" /></a>
-</p>
+</div>
+<div align="center">
+<a href="mailto:astw21209@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="atharvashirsh t" height="50" width="50" /></a>
+</div>
+
+<!-- [<img align="center" alt="AvantikaP | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]     -->
 
 <br>
 <br>
@@ -83,11 +89,15 @@
 <br>
 <br>
 <h2 align="center">My Github Stats:</h2>
-<p> <img align="center" src="https://komarev.com/ghpvc/?username=atharvashirsh&label=Profile%20views&color=0e75b6&style=flat" alt="atharvashirsh" width="169.5" height="30" /> </p>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&locale=en" alt="atharvashirsh" width="400" height="164"/></p> 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvashirsh&show_icons=true&locale=en&layout=compact" alt="atharvashirsh" /></p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=atharvashirsh&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</p>  
+
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashirsh&layout=compact&theme=dark)](https://github.com/atharvashirsh/github-readme-stats)    
+    
+![Atharvashirsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&theme=dark&count_private=true)      
+     
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvashirsh&" alt="atharvashirsh" /></p>
-
-
