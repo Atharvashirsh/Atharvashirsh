@@ -66,13 +66,20 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     </p>
 </div>
+<!-- 
+<br>
+<br>
 
+![snake gif](https://github.com/atharvashirsh/atharvashirsh/blob/output/github-contribution-grid-snake.gif)
 
-
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+<br>
+<br>
+ -->
 <br>
 <br>
 <h2 align="center">My Github Stats:</h2>
