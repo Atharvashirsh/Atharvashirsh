@@ -4,7 +4,7 @@
 <p> A curious full-stack developer from India</p>
 <br>
 
-<table>
+<table style="border:none;">
     <tr>
         <td><h3> 🌱 I’m currently learning JavaScript and Flutter 🌱 </h3></td> <td ROWSPAN="3"><img src="consulting-consultant.gif" alt="gif" width="100%"  ></td>
     </tr>
