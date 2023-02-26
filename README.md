@@ -3,19 +3,29 @@
 <h1> 👋 Hello Visitor 👋  <br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
 <p> A curious full-stack developer from India</p>
 <br>
-
-<table style="border:none;">
+<div>
+<img align="right" src="consulting-consultant.gif" alt="gif" width="45%"  >
+<p align="left">
+<h3 align="left"> 🌱 I’m currently learning JavaScript and Flutter</h3>
+<h3 align="left"> 💬 Ask me about Front-End and Back-End Development </h3> 
+<h3 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3>
+    <h3 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3>
+    <h3 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3>
+   
+</p>    
+</div>    
+<!-- <table style="border:none;">
     <tr>
-        <td><h3> 🌱 I’m currently learning JavaScript and Flutter 🌱 </h3></td> <td ROWSPAN="3"><img src="consulting-consultant.gif" alt="gif" width="100%"  ></td>
+        <td><h3> 🌱 I’m currently learning JavaScript and Flutter</h3></td> <td ROWSPAN="3"><img src="consulting-consultant.gif" alt="gif" width="100%"  ></td>
     </tr>
     <tr>
-        <td><h3> 💬 Ask me about Front-End and Back-End Development 💬 </h3></td>
+        <td><h3> 💬 Ask me about Front-End and Back-End Development </h3></td>
     </tr>
     <tr>
-        <td><h3> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> 📫 </h3></td>
+        <td><h3> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3></td>
     </tr>
     
-</table>
+</table> -->
 
 </div>
 <br>
