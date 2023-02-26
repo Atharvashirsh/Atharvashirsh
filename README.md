@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1> 👾 Hello Visitor 👾  <br><br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
+<h1> 👋 Hello Visitor 👋  <br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
 <p> A curious full-stack developer from India</p>
 <br>
-<img src="consulting-consultant.gif" alt="gif" >
+<img src="consulting-consultant.gif" alt="gif" width="100%"  >
 
 <h3> 🌱 I’m currently learning JavaScript and Flutter 🌱 </h3>
 
