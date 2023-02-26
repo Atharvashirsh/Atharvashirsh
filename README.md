@@ -11,7 +11,22 @@
 <h3 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3>
     <h3 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3>
     <h3 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h3>
-   
+<!--     🔭 I’m currently working on NLP Project
+🌱 I’m currently learning Java ☕
+
+
+ I enjoy working on
+📊 Machine Learning & Data Science
+🖼 Computer Vision
+🛠 DIY Raspberry Pi Projects
+🤖 Robotics
+📝 I write technical blogs and articles
+👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+🤔 I’m looking for help with Devops
+💬 Ask me about Python, ML, CV, Raspi
+📙 Check out my Resume
+🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+    -->
 </p>    
 </div>    
 <!-- <table style="border:none;">
