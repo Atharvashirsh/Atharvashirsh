@@ -3,13 +3,19 @@
 <h1> 👋 Hello Visitor 👋  <br> 👾 I'm Atharvashirsh Tiwary 👾</h1>
 <p> A curious full-stack developer from India</p>
 <br>
-<img src="consulting-consultant.gif" alt="gif" width="100%"  >
 
-<h3> 🌱 I’m currently learning JavaScript and Flutter 🌱 </h3>
-
-<h3> 💬 Ask me about Front-End and Back-End Development 💬 </h3>
-
-<h3> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> 📫 </h3>
+<table>
+    <tr>
+        <td><h3> 🌱 I’m currently learning JavaScript and Flutter 🌱 </h3></td> <td ROWSPAN="3"><img src="consulting-consultant.gif" alt="gif" width="100%"  ></td>
+    </tr>
+    <tr>
+        <td><h3> 💬 Ask me about Front-End and Back-End Development 💬 </h3></td>
+    </tr>
+    <tr>
+        <td><h3> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> 📫 </h3></td>
+    </tr>
+    
+</table>
 
 </div>
 <br>
@@ -18,10 +24,7 @@
 <h2 align="center">Connect with me:</h2>
 
 <div align="center">
-<a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvashirsh t" height="50" width="50" /></a>
-</div>
-<div align="center">
-<a href="mailto:astw21209@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="atharvashirsh t" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvashirsh t" height="45" width="45" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:astw21209@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="atharvashirsh t" height="50" width="50" /></a>
 </div>
 
 <!-- [<img align="center" alt="AvantikaP | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]     -->
