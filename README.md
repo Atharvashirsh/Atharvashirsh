@@ -124,8 +124,8 @@
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashirsh&layout=compact&theme=dark)](https://github.com/atharvashirsh/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashirsh&layout=compact&theme=midnight-purple)](https://github.com/atharvashirsh/github-readme-stats)    
     
-![Atharvashirsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&theme=dark&count_private=true)      
+![Atharvashirsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&theme=midnight-purple&count_private=true)      
      
 </div>
