@@ -30,6 +30,16 @@
 
 <div align="center">
     <h2>Language and Tools I Know</h2>
+    <h3>Programming Languages</h3>
+    <h3>Frontend Development</h3>
+    <h3>Backend Development</h3>
+    <h3>Mobile App Development</h3>
+    <h3>Artificial Intelligence / Machine Learning</h3>
+    <h3>Databases</h3>
+    <h3>Backend as a Service</h3>
+    <h3>Software</h3>
+    <h3>Gaming Engine</h3>
+    <h3>Others</h3>
     <p>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" /></a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
