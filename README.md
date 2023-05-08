@@ -10,7 +10,7 @@
 <h4 align="left"> 💬 Ask me about JavaScript. </h4> 
 <h4 align="left"> 📊 I enjoy working on Web Development 🧩 and Programming 💻 </h4>
 <h4 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h4>
-<h4 align="left"> 🎉 Fun-Fact: I play Basketball 🏀 and watch Breaking Bad ⚗️👨🏻‍🔬 </h4>
+<h4 align="left"> 🎉 Fun-Fact: I play Basketball 🏀 and watching Ted Lasso ⚽🏈 </h4>
 </p>    
 </div>
 <br>
