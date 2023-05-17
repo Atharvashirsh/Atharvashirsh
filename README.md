@@ -23,11 +23,7 @@
 <a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="atharvashirsh t" /></a>&emsp;<a href="mailto:astw21209@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="atharvashirsh t" /></a>
     
 </div>
-
 <br>
-<br>
-
-
 <div align="center">
     <h2>Language and Tools I Know</h2>
     <h3>Programming Languages</h3>
