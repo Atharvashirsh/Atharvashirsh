@@ -20,7 +20,7 @@
 
 <div align="center">
     
-<a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvashirsh t" height="50" width="50" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:astw21209@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="atharvashirsh t" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="atharvashirsh t" /></a>&emsp;<a href="mailto:astw21209@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="atharvashirsh t" /></a>
     
 </div>
 
