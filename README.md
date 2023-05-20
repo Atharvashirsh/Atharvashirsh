@@ -123,6 +123,6 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashirsh&layout=compact&theme=midnight-purple)](https://github.com/atharvashirsh/github-readme-stats)    
     
-![Atharvashirsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&theme=midnight-purple&count_private=true&hide=issues,prs)      
+![Atharvashirsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&theme=midnight-purple&count_private=true&hide=issues)      
      
 </div>
