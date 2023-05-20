@@ -24,7 +24,7 @@
     &emsp;
     <a href="mailto:astw21209@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="atharvashirsh t" /></a>
      &emsp;
-    <a href="https://twitter.com/atharva_tiwary" target="blank"><img  src=" https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="atharva_tiwary" /></a>
+    <a href="https://twitter.com/atharva_tiwary" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="atharva_tiwary" /></a>
 </div>
 <br>
 <div align="center">
