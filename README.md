@@ -28,8 +28,7 @@
 </div>
 <br>
 <div align="center">
-    <details>
-        <summary><h2>Language and Tools I Know 👨‍💻</h2></summary>
+    <h2>Language and Tools I Know 👨‍💻</h2>
     <h3>Programming Languages</h3>
     <p>
          <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"   /> </a>
@@ -108,12 +107,12 @@
         &emsp;
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
     </p>
- </details>
     
 </div>
 
-<details>
-    <summary><h2 align="center">My Github Stats 🤖</h2></summary>
+<br>
+
+<h2 align="center">My Github Stats 🤖</h2>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=atharvashirsh&label=PROFILE+VIEWS&style=flat-square&color=blue")
@@ -126,4 +125,4 @@
 ![Atharvashirsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashirsh&show_icons=true&theme=midnight-purple&count_private=true)      
      
 </div>
-</details>
+
