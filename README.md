@@ -28,7 +28,8 @@
 </div>
 <br>
 <div align="center">
-    <h2>Language and Tools I Know</h2>
+    <details>
+        <summary><h2>Language and Tools I Know</h2><hr></summary>
     <h3>Programming Languages</h3>
     <p>
          <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"   /> </a>
@@ -108,7 +109,8 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
     </p>
     <br>
- 
+ </details>
+    
 </div>
 
 <br>
