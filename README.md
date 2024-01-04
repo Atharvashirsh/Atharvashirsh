@@ -6,11 +6,11 @@
 <div>
 <img align="right" src="consulting-consultant.gif" alt="gif" width="45%"  >
 <p align="left">
-<h4 align="left"> 🌱 I’m currently learning Flutter.</h4>
+<h4 align="left"> 🌱 I’m currently learning ReactJS</h4>
 <h4 align="left"> 💬 Ask me about JavaScript. </h4> 
 <h4 align="left"> 📊 I enjoy working on Web Development 🧩 and Programming 💻 </h4>
 <h4 align="left"> 📫 How to reach me <a href = "mailto: astw21209@gmail.com">astw21209@gmail.com</a> </h4>
-<h4 align="left"> 🎉 Fun-Fact: I play Basketball 🏀 and watching Ted Lasso ⚽🏈 </h4>
+<h4 align="left"> 🎉 Fun-Fact: I love playing Basketball 🏀 and watch Web Series🎬 </h4>
 </p>    
 </div>
 <br>
